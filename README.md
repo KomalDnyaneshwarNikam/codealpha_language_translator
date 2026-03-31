@@ -21,4 +21,6 @@ A simple and user-friendly web app that translates text from one language to ano
 1. Clone or download the repository
 2. Install requirements:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
+ 3.streamlit run app.py
+ output:http://localhost:8501/
